@@ -1,1 +1,4 @@
-test
+---
+title: "Welcome to my blog"
+date: 2018-09-17
+---
